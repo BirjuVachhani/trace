@@ -1,0 +1,2 @@
+include ':app', ':trace'
+rootProject.name='TraceDemo'
